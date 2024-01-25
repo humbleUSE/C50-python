@@ -1,4 +1,4 @@
-entrypoint = "tip.py"
+entrypoint = "regex/test_numb3rs.py"
 modules = ["python-with-prybar-3.10:v2-20230925-77b13e4"]
 
 hidden = [".pythonlibs"]
